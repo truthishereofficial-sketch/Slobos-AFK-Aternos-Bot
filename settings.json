@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobos00",
+    "username": "Slobos_eagle",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "eagleskyblock.aternos.me",
-    "port": 61831,
+    "ip": "Funmcs1.aternos.me",
+    "port": 56369,
     "version": "1.21.11",
     "try-creative": false
   },
